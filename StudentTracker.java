@@ -72,4 +72,4 @@ public class StudentTracker {
         System.out.println("--> Lowest Grade: " + lowest);
     }
 }
-public static void main(String[]args)
+
